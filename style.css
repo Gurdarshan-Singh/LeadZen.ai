@@ -1,0 +1,265 @@
+h1{
+  font-weight: 600;
+  font-size: 3rem;
+}
+
+h6{
+  font-weight: 400;
+  font-size: 1.05rem;
+}
+body{
+  background-color: white;
+font-family: 'Poppins', sans-serif;
+    background-color: #FEC72E;
+}
+
+.navigation{
+    background-color: #FEC72E;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+.branding{
+ width: 200px;
+ margin-left: 17%;
+}
+
+a {
+   margin: 0 20px;
+   border-radius: 15px;
+   font-weight: bold;
+}
+a:hover {
+  background-color:#291200 ;
+  border-radius: 15px;
+  color: transparent;
+}
+.activeB{
+  background-color: #291200;
+}
+.activeB:hover{
+  background-color: white;
+}
+
+.sd{
+  margin-right: 300px;
+}
+.part{
+  margin: 3% 20%;
+}
+.activeC{
+  color: white;
+  background-color: #291200;
+  padding: 1%;
+  margin-left: 0;
+  text-decoration: none;
+}
+.top{
+  padding-top: 100px;
+}
+.activeC:hover{
+  background-color: white;
+  color: #291200;
+}
+.arrow{
+  position: absolute;
+  left: -400px;
+}
+.centerPart{
+  text-align: center;
+  margin: 2% 15%;
+}
+.arrowleft{
+  position: absolute;
+  left: -400px;
+  bottom: 160px;
+}
+.arrowRight{
+  position: absolute;
+  right: -400px;
+  bottom: 160px;
+}
+.help{
+  width: 100%;
+  height: 1800px;
+  background-color: white;
+  padding: 5% 15%;
+  text-align: center;
+}
+.bold{
+  font-weight: bold;
+}
+.arrowhelp{
+  position: absolute;
+  left: -100px;
+  top: 1180px;
+}
+.helpImage{
+  width: 50%;
+  margin: 5%;
+}
+.arrowhelpRight{
+  position: absolute;
+  right: -300px;
+  top: 1500px;
+}
+.buttons{
+  width: 20%;
+  height: 50px;
+  margin: 2%;
+  margin-bottom: 5%;
+  border-radius: 15px;
+}
+ .arrowhelp2{
+   position: absolute;
+   left: -150px;
+   top: 1980px;
+ }
+.helpVideo{
+  margin: 5%;
+  border: 10px solid grey;
+  border-radius: 25px;
+  position: absolute;
+  left: 500px;
+}
+.box1{
+  position: relative;
+  right: 300px;
+  top: 100px;
+}
+.box2{
+  position: relative;
+  right: 550px;
+  top: 300px;
+}
+.box3{
+  position: relative;
+  left: 450px;
+  top: 100px;
+}
+.box4{
+  position: relative;
+  left: 350px;
+  top: 300px;
+}
+.downArrow{
+  position: relative;
+  top: 500px;
+  right: 350px;
+}
+.recommends{
+  background-color: white;
+  text-align: center;
+  padding: 0 15%;
+  height: 1800px;
+}
+.arrowRightR{
+  position: relative;
+  right: 750px;
+  bottom: 100px;
+}
+.arrowR{
+  position: relative;
+  right: 700px;
+  bottom: 80px;
+}
+.arrowRR{
+  position: relative;
+  right: 850px;
+  bottom: 100px;
+}
+.arrowMid{
+  position: relative;
+  right: 490px;
+  top: 450px;
+}
+.Trusted{
+  background-color: white;
+  text-align: center;
+  padding: 0 15%;
+}
+.clients{
+  margin: 15%;
+}
+.client{
+  background-color: white;
+  padding: 5%;
+}
+.last{
+  background-color: white;
+  padding: 5% 15%;
+}
+.insideLast{
+  background-color: #FEC72E;
+  padding: 15% 5%;
+  border-radius: 25px;
+  margin-bottom: 100px;
+}
+.white{
+  color: white;
+}
+.end{
+  background-color: #0B0D17;
+  color: white;
+  padding: 5% 15%;
+}
+.logoo{
+width: 70%;
+}
+.Elinks{
+  text-decoration: none;
+  color: white;
+}
+.c{
+  border-radius: 25px;
+}
+.ic{
+  margin-left: 10%;
+  background-color: #FEC72E;
+  color: black;
+  padding: 2%;
+  border-radius: 100%;
+}
+.endline{
+  background-color:#0B0D17;
+  padding: 3% 20%;
+}
+.short{
+  font-size: 12px;
+  font-weight: lighter;
+}
+
+
+/* contact us */
+.contact{
+  background-color: #FEC72E;
+
+}
+
+.iq{
+  margin-left: 2%;
+  background-color: #0B0D17;
+  color: white;
+  padding: 2%;
+  border-radius: 100%;
+}
+.inp{
+  text-align: center;
+  background-color: white;
+  padding: 5%;
+  border-radius: 25px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.lft{
+  padding: 20% 10%;
+}
+.detail{
+  text-align: left;
+}
+.cen{
+  background-color: white;
+  padding: 5% 30%;
+  line-height: 1.6;
+  text-align: center;
+}
